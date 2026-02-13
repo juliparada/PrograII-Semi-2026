@@ -8,4 +8,32 @@
         <item>Cordobas</item>
         <item>Colon CR</item>
     </string-array>
+
+    <string-array name="longitud">
+        <item>Mts</item>
+        <item>Ml</item>
+        <item>Cm</item>
+        <item>Pulgada</item>
+        <item>Pies</item>
+        <item>Vara</item>
+        <item>Yarda</item>
+    </string-array>
+
+    <string-array name="volumen">
+        <item>Metros</item>
+        <item>Milimetro</item>
+        <item>Centimetro</item>
+        <item>Pulgada</item>
+        <item>Pies</item>
+        <item>Yarda</item>
+    </string-array>
+
+    <string-array name="masa">
+        <item>Metros</item>
+        <item>Milimetro</item>
+        <item>Centimetro</item>
+        <item>Pulgada</item>
+        <item>Pies</item>
+        <item>Yarda</item>
+    </string-array>
 </resources>
