@@ -144,6 +144,5 @@
         android:text="🔄"
         android:textColor="#000000"
         android:textSize="32sp" />
-
 </RelativeLayout>
 
