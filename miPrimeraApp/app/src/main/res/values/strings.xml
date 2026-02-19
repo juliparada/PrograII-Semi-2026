@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">Calculadora Basica</string>
-    <string-array name="opciones">
-        <item>Suma</item>
-        <item>Resta</item>
-        <item>Multiplicacion</item>
-        <item>Division</item>
+    <string name="app_name">Tarea-Conversores</string>
+    <string-array name="tipo">
+        <item>Monedas</item>
+        <item>Longitud</item>
+        <item>Volumen</item>
+        <item>Masa</item>
+        <item>Tiempo</item>
+        <item>Almacenamiento</item>
+        <item>Transferencia de datos</item>
     </string-array>
 </resources>
